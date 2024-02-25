@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <DemoComponent message={"Welcome"} />
+        <DemoComponent message={"Welcome my repo"} />
       </header>
     </div>
   );
