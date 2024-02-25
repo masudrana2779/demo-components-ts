@@ -17,3 +17,5 @@
 //   date: 'Monday, 19 February 2024',
 //   sellHeight: '100px',
 // }
+
+export {};
